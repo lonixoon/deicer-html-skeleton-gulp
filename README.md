@@ -26,6 +26,7 @@
 - **gulp pug**   - Собрать PUG
 - **gulp watch** - Отслеживать изменения во всем проекте
 - **gulp server**  - Запустить Livereload-сервер
+g
 
 
 
